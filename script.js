@@ -9,8 +9,8 @@ Class: Client Side Programming
 console.log("This is my first JavaScript script!");
 
 // part 1 Declare and initialize variables and constants for a user's age and height.
-let height = 200;
-const userAge = 36;
+const height = 200;
+let userAge = 36;
 console.log("******Here are the answers to part 1 of the exercise!******")
 console.log("The Height is", height);
 console.log("The users age is", userAge);
